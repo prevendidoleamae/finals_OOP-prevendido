@@ -20,6 +20,5 @@ person = Person()
 robot = Robot()
 
 objects = [car, person, robot]
-
 for obj in objects:
     make_it_move(obj)
